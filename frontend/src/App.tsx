@@ -2,6 +2,7 @@ import React, { useContext } from 'react';
 import { ThemeProvider } from 'styled-components';
 import GlobalStyles from './styles/global'
 import { GlobalContext } from './context/global.context';
+import Home from './pages/Home';
 
 function App() {
 
@@ -11,7 +12,7 @@ function App() {
     <div className="App">
       <ThemeProvider theme={contextTheme}>
         <GlobalStyles />
-        <h1>teste de inte</h1>
+        <Home/>
 
       </ThemeProvider>
     </div>
