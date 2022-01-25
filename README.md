@@ -20,8 +20,14 @@ é̴̼̯̘̝̲̰̹̱x̴̱̞̰͖̖ͩ͋ͪ̔͌͂̈́̋ẹ̴̞̃︠ͬ͆̾᷄᷃︡͠�
 ## TELA
 
 ### conversor de texto
+
 <img src="/docs/01.png" styles="width:120px;heigth:120px;">
+
 ### conversor de texto para unicode
+
 <img src="/docs/02.png" styles="width:120px;heigth:120px;">
+
 ### tema de light e dark
+
 <img src="/docs/02.png" styles="width:120px;heigth:120px;">
+
